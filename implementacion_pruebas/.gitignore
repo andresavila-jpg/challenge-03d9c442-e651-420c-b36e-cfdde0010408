@@ -1,0 +1,6 @@
+# Datos de muestra e intermedios regenerables
+data/
+*.montos
+*.processed
+# Log de ejecución del pipeline
+pipeline_optimizado.log
